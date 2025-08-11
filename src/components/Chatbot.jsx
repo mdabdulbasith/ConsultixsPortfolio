@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
-import logo from '../assets/logo.png';
+import logo from '../assets/Logo.png';
 import { FaCommentDots, FaTimes, FaPaperPlane, FaExpand, FaCompress } from 'react-icons/fa';
 
 const SERVICES = {
