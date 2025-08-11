@@ -5,13 +5,13 @@ const cardData = [
     title: "Orbit",
     description:
       "At our Creative Digital Agency, we bring your ideas to life by crafting engaging, impactful digital experiences that captivate audiences and drive results.",
-    link: "https://roaring-creponne-21ce83.netlify.app/",
+    link: "https://drive.google.com/file/d/1Y--kfUAlgf-wDjXB3M8ddn9umkOUTVhx/view?usp=drive_link",
   },
   {
     title: "PropertyNexus",
     description:
       "Expert real estate and mortgage solutions to help you find, finance, and secure your perfect property.",
-    link: "https://property-nexus.vercel.app/",
+    link: "https://drive.google.com/file/d/1zpa-RIkJBZPKO1rVvkymolXhiJrgpUvS/view?usp=drive_link",
   },
   {
     title: "Zentrix Solutions",
@@ -30,7 +30,7 @@ const cardData = [
     title: "SigmaVault",
     description:
       "Professional investment management, cutting-edge market insights, and personalized strategies to help you achieve your financial goals.",
-       link: "#",
+       link: "https://drive.google.com/file/d/1Tt8YIlN2xFBQRtamkK1GKELMbNnU2pOw/view?usp=drive_link",
   },
 ];
 

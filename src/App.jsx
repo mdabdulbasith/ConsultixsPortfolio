@@ -5,6 +5,7 @@ import './App.css'
 import Navbar from './components/Navbar.jsx'
 import ProjectLinks from './components/Project.jsx'
 import PdfSection from './components/PdfSection.jsx'
+import Chatbot from './components/Chatbot';
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
       </div>
       <ProjectLinks />
       <PdfSection />
-
+      <Chatbot />
     </>
   )
 }
